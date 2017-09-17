@@ -1,0 +1,12 @@
+#point_view thead tr th{
+	vertical-align: bottom;
+	text-align: center;
+	border-collapse: collapse;
+	border: 1px solid #ccc;
+}
+#point_view tbody tr td{
+	vertical-align: bottom;
+	text-align: center;
+	border-collapse: collapse;
+	border: 1px solid #ccc;
+}
